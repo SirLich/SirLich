@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-By day, I am an XR Developer working on applications for the Life Sciences in Unreal Engine. By night, I am a modder, game developer, and open source enthusiast. These are some of the projects I'm proud of, in no particular order.
+By day, I am an XR Developer creating experiences in Unreal Engine for the Life Sciences. By night, I am a modder, game developer, and open source enthusiast. These are some of the projects I'm proud of, in no particular order:
 
 ## Minecraft Modding
  - [wiki.bedrock.dev](https://wiki.bedrock.dev/) is a community-sourced documentation wiki for Minecraft: Bedrock Edition Add-ons (DAU ~2k)
