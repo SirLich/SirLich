@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-By day, I am an XR Developer creating experiences in Unreal Engine for the Life Sciences. By night, I am a modder, game developer, and open source enthusiast. These are some of the projects I'm proud of, in no particular order:
+By day, I am a C++ developer creating experiences in Unreal Engine for the games industry. By night, I am a modder, game developer, and open source enthusiast. These are some of the projects I'm proud of, in no particular order:
 
 ## Minecraft Modding
  - [wiki.bedrock.dev](https://wiki.bedrock.dev/) is a community-sourced documentation wiki for Minecraft: Bedrock Edition Add-ons (DAU ~2k)
  - [Regolith](https://bedrock-oss.github.io/regolith/) is an add-on compiler written in Golang
- - [Echo:NPC](https://sirlich.github.io/echo-npc-documentation/) is a premium package for reactive entities, which I eventually open-sourced
+ - [Echo:NPC](https://sirlich.github.io/echo-npc-documentation/) is a premium package for reactive entities, which is now open source.
  - [... and more!](https://sirlich.github.io/) 
 
 ## Sapiens Modding
