@@ -10,7 +10,6 @@ By day, I am a C++ developer creating games in Unreal Engine. By night, I am a m
 ## Godot
  - [My itch.io](https://itch.io/c/3467138/jam-games) page has the jam-games I've created (GMTK, Global Game Jam, Ludum Dare)
  - [My small but growing youtube channel](https://www.youtube.com/watch?v=xhoVDeLMcks&t=78s) contains my Godot tutorials
- - Here on github you will find my Godot plugins, including
 
 ## Minecraft Modding
  - [wiki.bedrock.dev](https://wiki.bedrock.dev/) is a community-sourced documentation wiki for Minecraft: Bedrock Edition Add-ons (50k MAU).
